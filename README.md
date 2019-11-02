@@ -4,21 +4,26 @@ Assignment for Introduction to Machine Learning subject at Innopolis University,
 ## Task description
 Task description is available [here](Task-Description.md).
 
+## Report
+Work report is available [here](Report.pdf).
+
 ## How to run
-All you need is to run ``main.py`` file, located in root directory of the project (considering you have python with the last version installed and you, are in the root project folder).
+* Download all necessary files and folders described in Task-Description.md
+* Reorganize downloaded folders and files in a way described below, in project folder tree section
+* Go to the project root folder
+* Run ``main.py`` file located in root directory of the project (considered that you have python3 installed)
 
 **Linux:**
 ```
+cd Traffic-Signs-Recognition
 python3 main.py
 ```
 
 **Windows:**
 ```
+cd Traffic-Signs-Recognition
 python main.py
 ```
-
-
-Also, you must follow the folders organization described below, in the project folder tree scheme.
 
 ## Project folder tree
 ```
@@ -48,6 +53,7 @@ root
 |
 ├───Report.pdf
 ├───Task-Description.md
+├───README.md
 └───main.py
 ```
 
